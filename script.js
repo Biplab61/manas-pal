@@ -102,7 +102,7 @@ function portfolioItemDetails(portfolioItem){
 
 /* -------------------Contact Form Google Sheet--------------- */
 
-            const scriptURL = ''
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbxynnhCyfAMUktmOSpia-AC6MaOL23pxGUvEAP7gzF289T_nABlXBKEL0pN9moNswKo9w/exec'
             const form = document.forms['contact-form']
           
             form.addEventListener('submit', e => {
